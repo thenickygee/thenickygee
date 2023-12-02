@@ -1,4 +1,4 @@
-# 👽 Nicky Gee.
+# Nicky Gee.
 
 Software engineer by day and a software engineer by night.
 - 🔭 building an AI Chatbot at work and an AI NPC in my free time.
