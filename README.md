@@ -8,7 +8,7 @@
    ██║   ██║  ██║███████╗██║ ╚████║██║╚██████╗██║  ██╗   ██║   ╚██████╔╝███████╗███████╗
    ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═╝ ╚═════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚══════╝
 </pre>
-
+<img src="https://nickygee-github-readme-stats.vercel.app/api/top-langs/?username=thenickygee&theme=dark&hide_border=true&layout=compact&count_private=true" alt="Top Languages" />
 swe by day, a swe by night.
 
 
